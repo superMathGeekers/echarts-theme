@@ -143,7 +143,7 @@ let theme = {
     bar: {
         barMaxWidth: 30,
         barGap: 0,
-        barCategoryGap: 0,
+        // barCategoryGap: 0,
     },
 
     // 折线图默认参数
